@@ -26,7 +26,7 @@ export const MyComposition = () => {
       </Series.Sequence>
       <Series.Sequence durationInFrames={300}>
         <ProductSlide
-          title="primeApi"
+          title="primeAPI"
           titleColor="#0284C7"
           description="Karmaşık ve kullanımı zor SDK'lar ile uğraşmadan, sadece API kullanarak mevcut uygulamalarınızda yasal geçerli e-imza ve mobil imza atılmasını sağlayabilirsiniz."
           color="bg-[#F5F3FF]"
